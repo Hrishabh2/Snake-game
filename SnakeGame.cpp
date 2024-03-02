@@ -20,6 +20,9 @@ void Setup()
     fruitY = rand() % height;
     score = 0;
 }
+
+
+// #hrishabh
 void Draw()
 {
     system("cls"); //system("clear");
